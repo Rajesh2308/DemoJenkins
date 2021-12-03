@@ -1,0 +1,20 @@
+node path
+
+app data
+C:\Users\Sachin\AppData
+
+
+NODE_PATHC:\Users\xyz\AppData\Roaming\npm\node_modules
+
+
+
+newman run "C:\Users\Sachin\Desktop\Rajesh Kulkarni\Postman\Demoapis.postman_collection.json" -e "QA.postman_environment.json"
+
+newman run "C:\Users\Sachin\Desktop\Rajesh Kulkarni\Postman\Demo.postman_collection.json"
+
+Iteretative :- newman run "C:\Users\Sachin\Desktop\Rajesh Kulkarni\Postman\Demo.postman_collection.json" -n 3
+
+
+share run/ using link:-
+
+newman run "https://www.getpostman.com/collections/eabd964c120c6d268d69"
